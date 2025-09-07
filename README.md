@@ -1,7 +1,8 @@
 # Bahrain-Imports-by-Category-2020-2023
-This dashboard provides an overview of Bahrain’s imports across all categories** from 2020 to 2023. It summarizes total transactions, import quantities, and values while highlighting year-over-year trends, seasonal patterns, and global sourcing origins.  
+This dashboard provides an overview of Bahrain’s imports across all categories from 2020 to 2023. It summarizes total transactions, import quantities, and values while highlighting year-over-year trends, seasonal patterns, and global sourcing origins.  
 ---
 <img width="962" height="537" alt="image" src="https://github.com/user-attachments/assets/2a5e49f9-311b-46cb-9f78-efbb7646ee1d" />
+
 ---
 
 ## Key Metrics  
