@@ -14,27 +14,27 @@ This dashboard provides an overview of Bahrain’s imports across all categories
 ---
 
 ## Dashboard Components  
-1. **KPI Cards (Left Panel)**  
+1. **KPI Cards**  
    - Show total transactions, import quantity, total value, and average cost.  
 
-2. **Import Value Through the Years (Bar Chart)**  
+2. **Import Value Through the Years**  
    - Displays annual import value:  
      - 2020: $12.8bn  
      - 2021: $14.2bn  
      - 2022: $15.5bn  
      - 2023: $15.4bn  
 
-3. **Import Quantity Over the Years (Bar Chart)**  
+3. **Import Quantity Over the Years**  
    - Highlights growth in import quantities:  
      - 2020: 17bn  
      - 2021: 22bn  
      - 2022: 22bn  
      - 2023: 24bn  
 
-4. **Seasonal Import Trend (Line Chart)**  
+4. **Seasonal Import Trend**  
    - Illustrates quarterly variation in imports, with Q2 peaking (~23bn) and Q3 showing the lowest (~20bn).  
 
-5. **Import Source (Map Visualization)**  
+5. **Import Source**  
    - Displays Bahrain’s trade partners globally.  
    - Major imports come from Europe, Asia, and North America.  
 
